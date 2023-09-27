@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "Posts (work In Progress)"
 listing:
   contents: posts
   sort: "date desc"

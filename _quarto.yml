@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "."
+  title: "Alex Goebel"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/agoebel-vt/agoebel-vt.github.io
+      - icon: linkedin
+        href: https://www.linkedin.com/in/alex-goebel-2655b5114/
 format:
   html:
     theme: cosmo
